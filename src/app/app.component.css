@@ -1,0 +1,49 @@
+/* body {
+    background-color: #F0F0F0;
+}
+#app {
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 60px;
+}
+#video {
+    background-color: #000000;
+}
+#canvas {
+    display: none;
+}
+li {
+    display: inline;
+    padding: 5px;
+} */
+
+.actionBtn {
+    font-size: 4em;
+    cursor: pointer;
+  }
+  
+  .snapshot {
+    text-align: center;
+    
+  }
+  img {
+    max-width: 800px;
+    max-height: 800px;
+  }
+  
+  ul.links {
+    padding-bottom: 20px;
+  }
+
+  .screenshots{
+    width:100%;
+    border:1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .screenshots img{
+      width:50px;
+      height: 50px;
+
+  }
